@@ -12,3 +12,5 @@ If you're still using one of the 0.5.0 betas, please ensure you're using the **o
 engine, the new one refuses to work under Catwork.
 
 Another thing that I'm going to change in CW6 is how Await/HandleAsync pops off the top, instead of returning the table, it will now return an optional export table, as well as a new dispatcher that works under deferred threads.
+
+If you want access to catwork6, codenamed `calico`. Please contact me for more info on how to contribute.
